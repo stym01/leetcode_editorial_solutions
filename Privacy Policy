@@ -1,0 +1,22 @@
+# Privacy Policy
+
+**LeetCode Editorial Fetcher** is a browser extension designed to fetch editorial links and code snippets for LeetCode problems. 
+
+## Data Collection and Usage
+This extension does not collect, store, or process any personal or sensitive information. All processing happens locally on your browser.
+
+## Permissions
+The following permissions are requested to ensure the extension functions correctly:
+- **scripting**: To extract problem details from LeetCode problem pages.
+- **activeTab**: To interact with the currently active LeetCode page.
+- **Host Permission (https://leetcode.com/**)**: To access problem details from LeetCode pages.
+
+These permissions are used solely to provide the described functionality and are not used to collect any data.
+
+## Third-Party Services
+The extension links to external public GitHub repositories for editorial resources. These repositories are not owned or controlled by this extension.
+
+## Contact
+If you have questions about this Privacy Policy, you can contact us at [your-email@example.com].
+
+**Effective Date:** [Insert Date]
